@@ -27,3 +27,14 @@ Need some hints? Use them sparingly, see how much you can get done on your own f
 
 
 
+## HINTs
+1. Check out the ```PIL.ImageDraw module``` for helpful functions
+
+2. Did you find the ```text()``` function of ```PIL.ImageDraw```?
+
+3. Have you seen the ```PIL.ImageFont module```? Try loading the font with a size of 75 or so.
+
+4. These hints aren't really enough, we should probably generate some more.
+
+
+
