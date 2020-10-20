@@ -4,8 +4,9 @@
 Python 3 Programming - UMichigan --> Assignment 1: Building a Better Contact Sheet with PILLOW
 
 
-__Here I share my way how to solve the Assignmet 1 from Week 1 of the Coursera University of Michigan - course 5 Python Project: pillow, tesseract, and opencv
-\nFor the solution, check file 'Assigment1_solution.py'__
+__Here I share my way how to solve the Assignmet 1 from Week 1 of the Coursera University of Michigan - Course 5 Python Project: pillow, tesseract, and opencv__
+
+__For the solution, check file 'Assigment1_solution.py'__
 
 
 Assignment 1: Building a Better Contact Sheet
